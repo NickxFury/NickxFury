@@ -8,7 +8,7 @@
 
 ![NickxFury GitHub stats](https://github-readme-stats-dulquer9.vercel.app/api?username=NickxFury&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![GitHub followers](https://img.shields.io/github/followers/NickxFury?style=social)     ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NickxFury/)
+![GitHub followers](https://img.shields.io/github/followers/NickxFury?style=social)      ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NickxFury/)
 
 - 👨‍💼 𝓕𝓻𝓮𝓮𝓵𝓪𝓷𝓬𝓮  𝔀𝓸𝓻𝓴𝓮𝓻.
 - 🌚 <b>nσσв</b>
