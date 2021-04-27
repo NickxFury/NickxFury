@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![NickxFury GitHub stats](https://github-readme-stats-dulquer9.vercel.app/api?username=NickxFury&theme=gruvbox&show_icons=true)
-[![NickxFury Readme Card](https://github-readme-stats-dulquer9.vercel.app/api/pin/?username=NickxFury&repo=NickxFury readme stats)](https://github.com/anuraghazra/github-readme-stats)
+[![NickxFury Readme Card](https://github-readme-stats-dulquer9.vercel.app/api/pin/?username=NickxFury&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
