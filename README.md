@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![NickxFury GitHub stats](https://github-readme-stats-dulquer9.vercel.app/api?username=NickxFury&theme=gruvbox&show_icons=true)
 [![NickxFury Readme Card](https://github-readme-stats-dulquer9.vercel.app/api/pin/?username=NickxFury&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-dulquer9.vercel.app/api/top-langs/?username=NickxFury&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
