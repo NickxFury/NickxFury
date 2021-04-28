@@ -8,8 +8,6 @@
  
  <summary>:zap: GitHub Stats</summary>
 
-![NickxFury GitHub stats]( https://github-readme-stats-dulquer9.vercel.app/api?username=NickxFury&theme=algolia&show_icons=true)
-
 [![NickxFury Readme Card](https://github-readme-stats-dulquer9.vercel.app/api/pin/?username=NickxFury&repo=github-readme-stats)](https://github.com/NickxFury)
 
 [![Top Langs](https://github-readme-stats-dulquer9.vercel.app/api/top-langs/?username=NickxFury&layout=compact)](https://github.com/NickxFury)
@@ -40,7 +38,7 @@
 
 ---
 
-<img align="left" alt="PROFESSOR's Github Stats" src="https://github-readme-stats-dulquer9.vercel.ap/api?username=NickxFur&hide=prs&count_private=true&show_icons=true&theme=algolia" />
+![NickxFury GitHub stats]( https://github-readme-stats-dulquer9.vercel.app/api?username=NickxFury&theme=algolia&show_icons=true)
 
 [website]: https://visi.tk/professor
 [hmm]: https://telegram.dog/TroJanzHEX
