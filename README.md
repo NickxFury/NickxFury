@@ -8,7 +8,7 @@
  
  <summary>:zap: GitHub Stats</summary>
 
-![NickxFury GitHub stats](https://github-readme-stats-dulquer9.vercel.app/api?username=NickxFury&theme=gruvbox&show_icons=true)
+![NickxFury GitHub stats]( https://github-readme-stats-dulquer9.vercel.app /api?username=NickxFury&theme=gruvbox&show_icons=true)
 
 [![NickxFury Readme Card](https://github-readme-stats-dulquer9.vercel.app/api/pin/?username=NickxFury&repo=github-readme-stats)](https://github.com/NickxFury)
 
@@ -23,4 +23,28 @@
 - 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
 - ⚠️ <b>мιѕтαкєѕ нαρρєи</b> 🤷‍♂️
 
+
 [![Generic badge](https://img.shields.io/badge/ForㅤMo꒦꒐ꏂꇙ..ㅤping@-MOVIECLUB_CHAT-RED.svg)](https://telegram.dog/MOVIECLUB_CHAT) 
+
+
+### Connect with me:
+
+[<img align="left" alt="Website" width="30px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
+[<img align="left" alt="Telegram" width="30px" src="https://img.icons8.com/dusk/64/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="E Mail" width="30px" src="https://img.icons8.com/dusk/64/000000/email.png" />][email]
+[<img align="left" alt="Support" width="30px" src="https://img.icons8.com/cotton/64/000000/laptop-coding.png" />][support]
+
+<br />
+
+<br />
+
+---
+
+<img align="left" alt="PROFESSOR's Github Stats" src="https://github-readme-stats-dulquer9.vercel.ap/api?username=NickxFur&hide=prs&count_private=true&show_icons=true&theme=algolia" />
+
+[website]: https://visi.tk/professor
+[hmm]: https://telegram.dog/TroJanzHEX
+[telegram]: https://telegram.dog/TheUnusualPsychopath
+[email]: mailto:vradithyan8@gmail.com
+[support]: https://telegram.dog/TroJanzSupport
+[done]: https://github.com/TroJanzHEX
