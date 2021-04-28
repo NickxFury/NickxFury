@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm [Nick Fury](https://github.com/NickxFury) 👋
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/NickxFury) [![telegram badge](https://img.shields.io/badge/NickxFury-30302f?style=flat&logo=telegram)](https://telegram.dog/NickxFury)
 
