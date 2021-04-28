@@ -1,7 +1,7 @@
 ### Hi there I'm [Nick Fury](https://telegram.dog/NickxFury) 👋
 
 [![telegram badge](https://img.shields.io/badge/🄽🄸🄲🄺🄵🅄🅁🅈-30302f?style=for-the-badge&logo=telegram)](https://telegram.dog/NickxFury)
-[![telegram badge](https://img.shields.io/badge/MovieClub-30302f?style=for-the-badge)](https://MOVIECLUB_CHAT)
+[![telegram badge](https://img.shields.io/badge/🄼🄾🅅🄸🄴🄲🄻🅄🄱-30302f?style=for-the-badge)](https://MOVIECLUB_CHAT)
 
 
 <details>
