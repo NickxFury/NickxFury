@@ -8,7 +8,7 @@
  
  <summary>:zap: GitHub Stats</summary>
 
-![NickxFury GitHub stats]( https://github-readme-stats-dulquer9.vercel.app /api?username=NickxFury&theme=gruvbox&show_icons=true)
+![NickxFury GitHub stats]( https://github-readme-stats-dulquer9.vercel.app/api?username=NickxFury&theme=algolia&show_icons=true)
 
 [![NickxFury Readme Card](https://github-readme-stats-dulquer9.vercel.app/api/pin/?username=NickxFury&repo=github-readme-stats)](https://github.com/NickxFury)
 
