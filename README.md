@@ -41,8 +41,8 @@
 ![NickxFury GitHub stats]( https://github-readme-stats-dulquer9.vercel.app/api?username=NickxFury&theme=algolia&show_icons=true)
 
 [website]: https://visi.tk/professor
-[hmm]: https://telegram.dog/TroJanzHEX
-[telegram]: https://telegram.dog/TheUnusualPsychopath
-[email]: mailto:vradithyan8@gmail.com
-[support]: https://telegram.dog/TroJanzSupport
-[done]: https://github.com/TroJanzHEX
+[hmm]: https://telegram.dog/MOVIECLUB_CHAT
+[telegram]: https://telegram.dog/NickxFury
+[email]: mailto:abhishekbijujohn9@gmail.com
+[Movies]: https://telegram.dog/MOVIECLUB_CHAT
+[done]: https://github.com/NickxFury
