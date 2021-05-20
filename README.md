@@ -38,6 +38,9 @@
 
 ---
 
+
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=NickxFury=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/NickxFury "Stats")<br>
+
 ![NickxFury GitHub stats]( https://github-readme-stats-dulquer9.vercel.app/api?username=NickxFury&theme=algolia&show_icons=true)
 
 [website]: https://visi.tk/professor
