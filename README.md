@@ -30,7 +30,7 @@
  
  <summary>:zap: GitHub Stats</summary>
 
-[![NickxFury Readme Card](https://github-readme-stats-dulquer9.vercel.app/api/pin/?username=NickxFury&repo=github-readme-stats)](https://github.com/NickxFury)
+[![NickxFury Readme Card](https://github-readme-stats-dulquer9.vercel.app/api/pin/?username=NickxFury&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/NickxFury)
 
 [![Top Langs](https://github-readme-stats-dulquer9.vercel.app/api/top-langs/?username=NickxFury&layout=compact)](https://github.com/NickxFury)
 
